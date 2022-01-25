@@ -1,0 +1,172 @@
+@import url('https://fonts.cdnfonts.com/css/wynford');
+
+
+
+footer {
+    margin-top: 5%;
+    text-align: center;
+    padding: 2em 2em 0em 2em !important;
+    background-color: #141c27;
+    color: white;
+    position: relative;
+}
+a {
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+#social {
+    justify-content: start;
+    text-align: left;
+    padding-left: 0;
+    list-style: none;
+    display:inline-flex;
+    
+}
+.socials{
+    margin: 0.625rem;
+}
+
+.back-to-top {
+    width: 7rem;
+    height: 7rem;
+    background-color: #141c27;
+    position: absolute;
+    top: -3rem;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 50%;
+
+    text-decoration: none;
+}
+
+.back-to-top i {
+    display: block;
+    color: white;
+    font-size: 2rem;
+    padding: 2rem;
+    margin-bottom: 0;
+    animation: up 2s infinite;
+    text-decoration: none;
+}
+
+.footer-content {
+    /*overflow:hidden*/
+    margin-top: 0;
+    text-decoration: none;
+}
+
+.footer-content h4 {
+    text-decoration: none;
+    cursor: pointer;
+    color: aliceblue;
+    font-size: 1.7rem;
+
+    font-weight: 300;
+    margin-bottom: 1rem;
+}
+.footer-content h5 {
+    color: aliceblue;
+    margin-bottom: 1rem;
+}
+
+@media screen and (max-width: 505px){
+    h1{
+        font-size: 300%;
+        margin-bottom: 30%;
+    }
+}
+
+@media screen and (max-width: 330px){
+    h1{
+        font-size: 250%;
+        margin-bottom: 30%;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px){
+    h1{
+        font-size: 550%;
+        margin-bottom: 10%;
+    }
+}  
+
+.img-thumbnail{
+    border:0;
+    background: transparent;
+}
+
+.discord {
+    background-color: #7289da;
+    color: white;
+}
+
+.icons {
+    z-index: 99;
+    position: fixed;
+    top: 40%;
+    left: 0%;
+    width: 180px;
+    display: flex;
+    flex-direction: column;
+}
+
+.icons a {
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 9px;
+    font-size: 19px;
+    font-family: Oswald, sans-serif;
+    margin: 1px;
+    text-align: right;
+    border-radius: 0px 50px 50px 0px;
+    transform: translate(-139px, 0px);
+    transition: 1s;
+}
+.icons a:hover {
+    transform: translate(-100px,0px);
+    color: black;
+}
+
+.icons a i {
+    margin-left: 0.8em;
+    margin-right: 0.5em;
+}
+
+.facebook {
+    background-color: darkslateblue;
+    color: white;
+}
+
+.youtube {
+    background-color: red;
+    color: white;
+}
+
+.twitter {
+    background-color: deepskyblue;
+    color: white;
+}
+
+.instagram {
+    background-color: #dd2a7b;
+    color: white;
+}
+
+.linkedin {
+    background-color: #0e76a8;
+    color: white;
+}
+#social {
+    padding: 0 2em 0 2em;
+}
+
+#social {
+    color: aliceblue;
+}
+
+#social :hover {
+    transition: 0.4s;
+    transform: scale(1.1);
+}
