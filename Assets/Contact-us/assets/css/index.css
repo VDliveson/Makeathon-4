@@ -52,7 +52,7 @@
 
 #contact_us-body {
   position: relative;
-  overflow-x: hidden;
+  overflow: hidden;
   background-image: url("..//images/image.png");
   background-repeat: no-repeat;
   background-color: hsl(0, 0%, 0%);
