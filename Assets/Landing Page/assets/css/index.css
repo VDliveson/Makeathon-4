@@ -529,7 +529,7 @@ video{
   transform: translateY(-20%);
 }
 .openbtn {
-  font-size: 20px;
+  font-size: 35px;
   background: transparent;
   color: rgb(0, 255, 34);
   padding: 10px 15px;
