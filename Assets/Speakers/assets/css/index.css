@@ -166,7 +166,7 @@
     }
     #speakers-heading{
         margin-top: 50px;
-        font-size: 15vw;
+        font-size: 3rem;
     }
 }
 @media screen and (max-width: 345px){
