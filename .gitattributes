@@ -1,3 +1,4 @@
 Assets/Landing[[:space:]]Page/assets/video/bg.mp4 filter=lfs diff=lfs merge=lfs -text
 Assets/Landing[[:space:]]Page/assets/images/Green_logo693.png filter=lfs diff=lfs merge=lfs -text
 Assets/Timeline/assets/images/bg.png filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
