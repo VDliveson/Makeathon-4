@@ -19,7 +19,7 @@
 
 
 <p align="center" style="text-align:justify">
-  <img src = "Assets\MLSC_logo.png" width="300">
+  <img src = "https://mlsctiet.co.in/static/main/pics/mlsc_shield_new.png" width="300">
 </p>
 
 **Microsoft Student Learn Chapter**, Thapar Institute of Engineering and Technology is an eminent technical society with like-minded and driven individuals. MLSC strives to create a community of versatile enthusiasts with progressive mindsets, promoting holistic development, mentoring and motivating its students to refine their critical thinking, coding skills and soft skills. To further this, over the years we have organized various Workshops, Open Source Projects, Tech-meetups and trendsetting competitions like the **Makeathon**. These events are dynamic platforms that feed the participant’s curiosity and develop their technical skills.
